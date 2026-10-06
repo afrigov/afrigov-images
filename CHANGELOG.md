@@ -6,6 +6,12 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-10-06
+
+### Changed
+
+- The links go to afrigov's docs at [afrigov.dev](https://afrigov.dev), and the code is now in the [afrigov organisation](https://github.com/afrigov) on GitHub.
+
 ## [0.1.0] - 2026-10-03
 
 ### Added
@@ -16,5 +22,6 @@ All notable changes to this project are documented here. The format follows
 - `--json`, `--quality` and `--keep-metadata`.
 - Library: `processImage`, `findImages`, `htmlFor`, `slug` and `KINDS`.
 
-[Unreleased]: https://github.com/afrigov/afrigov-images/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/afrigov/afrigov-images/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/afrigov/afrigov-images/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/afrigov/afrigov-images/releases/tag/v0.1.0

@@ -1,6 +1,6 @@
 {
   "name": "afrigov-images",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make images light enough for African government websites. Resizes for each screen, converts to WebP, removes location data, checks the afrigov weight limits and prints the HTML.",
   "keywords": [
     "images",
