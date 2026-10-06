@@ -1,6 +1,6 @@
 /**
  * The kinds of image on an afrigov page, with the widths to make and the weight limit for the
- * largest one. The limits match https://omoyolab.github.io/afrigov/styles/images.html
+ * largest one. The limits match https://afrigov.dev/styles/images.html
  */
 export interface Kind {
   name: KindName;

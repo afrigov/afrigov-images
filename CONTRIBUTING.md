@@ -15,7 +15,7 @@ Node 20 or newer and pnpm 10.
 
 **A photo that comes out wrong.** Too heavy, too blurry, turned the wrong way, or with data left in it. Open an issue with the photo if you can share it, or its size, format and where it came from if you cannot.
 
-**Sizes and limits.** The kinds in `src/kinds.ts` follow afrigov's [Images page](https://omoyolab.github.io/afrigov/styles/images.html). A change to a limit belongs there first.
+**Sizes and limits.** The kinds in `src/kinds.ts` follow afrigov's [Images page](https://afrigov.dev/styles/images.html). A change to a limit belongs there first.
 
 **Not yet:** AVIF output, image services, watching a folder. Open an issue first.
 

@@ -50,7 +50,7 @@ Choose with `--kind`. Each kind has the sizes a page needs and a weight limit fo
 | `flyer`    | Event flyer                                          | 400, 800 wide       |  120 KB |
 | `logo`     | Logo or mark                                         | 56, 112 tall        |   20 KB |
 
-The limits are the ones on afrigov's [Images page](https://omoyolab.github.io/afrigov/styles/images.html).
+The limits are the ones on afrigov's [Images page](https://afrigov.dev/styles/images.html).
 
 ## What it does to each image
 
