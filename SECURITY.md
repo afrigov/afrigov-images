@@ -5,7 +5,7 @@
 If you find a security issue in afrigov-images, please do not open a public issue.
 
 Use GitHub's private reporting form:
-https://github.com/omoyolab/afrigov-images/security/advisories/new
+https://github.com/afrigov/afrigov-images/security/advisories/new
 
 Or email **xanderabim@gmail.com** with "afrigov-images security" in the subject.
 

@@ -1,9 +1,9 @@
 # afrigov-images
 
-**Make images light enough for a government website.** Point it at a folder of photos. It makes each one at the sizes phones, tablets and desktops need, saves them as WebP, removes the camera's location data, checks them against [afrigov](https://github.com/omoyolab/afrigov)'s weight limits, and prints the HTML to paste.
+**Make images light enough for a government website.** Point it at a folder of photos. It makes each one at the sizes phones, tablets and desktops need, saves them as WebP, removes the camera's location data, checks them against [afrigov](https://github.com/afrigov/afrigov)'s weight limits, and prints the HTML to paste.
 
 [![npm](https://img.shields.io/npm/v/afrigov-images?color=1f4e79)](https://www.npmjs.com/package/afrigov-images)
-[![CI](https://github.com/omoyolab/afrigov-images/actions/workflows/ci.yml/badge.svg)](https://github.com/omoyolab/afrigov-images/actions/workflows/ci.yml)
+[![CI](https://github.com/afrigov/afrigov-images/actions/workflows/ci.yml/badge.svg)](https://github.com/afrigov/afrigov-images/actions/workflows/ci.yml)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ```sh
@@ -95,7 +95,7 @@ console.log(result.outputs, result.withinLimit, result.html);
 
 ## Check a live page
 
-[afrigov-audit](https://github.com/omoyolab/afrigov-audit) reports a page's weight on a phone and names every image heavier than it needs to be. This tool is the fix.
+[afrigov-audit](https://github.com/afrigov/afrigov-audit) reports a page's weight on a phone and names every image heavier than it needs to be. This tool is the fix.
 
 ## Licence
 

@@ -2,7 +2,7 @@ name: Release
 
 # Publishes to npm through Trusted Publishing (OIDC). No npm token is stored anywhere.
 # One-time setup on npmjs.com: package Settings → Trusted publisher → GitHub Actions,
-# organization "omoyolab", repository "afrigov-images", workflow "release.yml".
+# organization "afrigov", repository "afrigov-images", workflow "release.yml".
 
 # Two ways to release the version in package.json:
 #   1. Push a tag:  git tag v1.2.3 && git push origin v1.2.3

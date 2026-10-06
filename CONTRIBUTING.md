@@ -3,7 +3,7 @@
 ## Setup
 
 ```sh
-git clone https://github.com/omoyolab/afrigov-images
+git clone https://github.com/afrigov/afrigov-images
 cd afrigov-images
 pnpm install
 pnpm check

@@ -16,13 +16,13 @@
   ],
   "license": "MIT",
   "author": "Abimbola Omoyola",
-  "homepage": "https://github.com/omoyolab/afrigov-images#readme",
+  "homepage": "https://github.com/afrigov/afrigov-images#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omoyolab/afrigov-images.git"
+    "url": "git+https://github.com/afrigov/afrigov-images.git"
   },
   "bugs": {
-    "url": "https://github.com/omoyolab/afrigov-images/issues"
+    "url": "https://github.com/afrigov/afrigov-images/issues"
   },
   "type": "module",
   "bin": {

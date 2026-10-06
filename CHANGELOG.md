@@ -16,5 +16,5 @@ All notable changes to this project are documented here. The format follows
 - `--json`, `--quality` and `--keep-metadata`.
 - Library: `processImage`, `findImages`, `htmlFor`, `slug` and `KINDS`.
 
-[Unreleased]: https://github.com/omoyolab/afrigov-images/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/omoyolab/afrigov-images/releases/tag/v0.1.0
+[Unreleased]: https://github.com/afrigov/afrigov-images/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/afrigov/afrigov-images/releases/tag/v0.1.0
