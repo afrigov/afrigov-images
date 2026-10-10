@@ -97,6 +97,10 @@ console.log(result.outputs, result.withinLimit, result.html);
 
 [afrigov-audit](https://github.com/afrigov/afrigov-audit) reports a page's weight on a phone and names every image heavier than it needs to be. This tool is the fix.
 
+## How it is made
+
+Built with AI assistance (Claude). Every change is reviewed and decided by the maintainer before it ships.
+
 ## Licence
 
 [MIT](LICENSE). The image processing is done by [sharp](https://sharp.pixelplumbing.com/) and libvips.
